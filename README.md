@@ -18,11 +18,16 @@ To address this challenge, we propose GASim with key components as follows:
 ---
 
 ## 📅 TODO List
+- [ ] Release "Getting Started" guidelines
 - [ ] Release the overall social simulation module
 - [ ] Release GOM validation on LoCoMo dataset
 - [ ] Release GMP training module
 - [ ] Release anonymized social topic-based datasets
 
+
+## 🙏 Acknowledgements
+
+This repo is built upon the [AgentVerse](https://github.com/OpenBMB/AgentVerse) and [HiSim](https://github.com/xymou/HiSim) framework. We sincerely thank the authors for their contributions to the community.
 
 
 
