@@ -1,4 +1,4 @@
-# GASim
+# Welcome to GASim
 
 This repository is the implementation of our ACL 2026 paper *GASim: A Graph-Accelerated Hybrid Framework for Social Simulation*. Our contributions can be summarized as follows:
 
