@@ -8,8 +8,8 @@ Large-scale social simulators are essential for studying complex social patterns
 To address this challenge, we propose GASim with key components as follows:
 
 - A hybrid coordinator **EDG** that dynamically partitions agents into core and ordinary types.
-- **GOM** for core agents to rapidly retrieve memories with a lightweight graph-based memory model, alleviating the heavy latency in LLM-based retrieval process.
-- **GMP** for ordinary agents to update opinion in parallel with fine-grained features and Graph Attention Network, resolving the sequential execution bottlenecks of ABMs.
+- **GOM** for core agents, which rapidly retrieves memories with a lightweight graph-based memory model, alleviating the heavy latency in LLM-based retrieval process.
+- **GMP** for ordinary agents, which updates opinions in parallel with fine-grained features and Graph Attention Network, resolving the sequential execution bottlenecks of ABMs.
 
 ---
 
